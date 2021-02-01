@@ -3,4 +3,5 @@ An immersive experience of an interactive house. Checker House is developed with
   - Oculus Quest VR
   - Android ARCore 
   - WebGL (can be accessed through the below link)
+  
 https://atabbakh1.github.io/XR_Checker_House_Page/
