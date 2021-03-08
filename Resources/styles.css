@@ -1,8 +1,6 @@
 body {
 margin: 0px;
 background-color: black;
-}
-
-#unityContainer {
-    width: 100%;
+display: flex;
+justify-content: space-between;
 }
