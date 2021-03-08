@@ -10,3 +10,10 @@
     justify-content: center;
   }
   
+  .container {
+    max-width: 1680px;
+    margin: 0 auto;
+    padding: 0 40px;
+    margin: 40px;
+  }
+
