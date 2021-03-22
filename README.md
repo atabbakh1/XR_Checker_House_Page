@@ -7,7 +7,7 @@ An immersive experience of an interactive house. Checker House is developed with
   - AR: Android ARCore 
   - WEB: WebGL 
 
-![Screenshot](/XR_Checker_House_Page/Images/Capture.jpg)
+![Screenshot](https://github.com/atabbakh1/XR_Checker_House_Page/blob/master/Images/Capture.jpg)
 
 
 The project utilizes the following external assets in Unity:
