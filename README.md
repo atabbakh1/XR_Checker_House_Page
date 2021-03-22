@@ -1,7 +1,5 @@
 # XR Checker House
-## For web version visit: 
-
-http://xrcheckerhouse.com/
+## For web version visit: http://xrcheckerhouse.com/
 
 
 An immersive experience of an interactive house. Checker House is developed with Unity3D and is currently compatible with:
@@ -9,7 +7,7 @@ An immersive experience of an interactive house. Checker House is developed with
   - AR: Android ARCore 
   - WEB: WebGL 
 
-![Screenshot](/XE_Checker_House_Page/Images/Capture.jpg)
+![Screenshot](/XR_Checker_House_Page/Images/Capture.jpg)
 
 
 The project utilizes the following external assets in Unity:
